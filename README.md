@@ -13,7 +13,7 @@ A Telegram bot that used to download or upload the media contents from cyberdrop
 
  ## Deploy Locally :
  ```
- git clone https://github.com/DebiprasadXD/link-media-scraper-bot
+ git clone https://github.com/jackthegreathacker/link-media-scraper-bot
  cd link-media-scraper-bot
  ```
  ### Install the required libraries :
