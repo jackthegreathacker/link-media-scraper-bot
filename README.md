@@ -3,7 +3,7 @@ A Telegram bot that used to download or upload the media contents from cyberdrop
 
 ## Simply Deploy on Heroku (Easier Way):
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DebiprasadXD/link-media-scraper-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jackthegreathacker/link-media-scraper-bot)
 ## Supported Handlers :
  1. for cyberdrop links `/cyberdrop [link]`
  2. for bunkr links `/bunkr [link]`
